@@ -6,8 +6,8 @@
 
 [![TechRxiv](https://img.shields.io/badge/arXiv-Paper-B31B1B.svg)]([https://arxiv.org/abs/xxxx.xxxxx](https://www.techrxiv.org/users/858346/articles/1370402-efficient-large-language-models-for-recommendation-a-survey))
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/xxx/Awesome-Efficient-LLM4Rec/pulls)
-[![Stars](https://img.shields.io/github/stars/xxx/Awesome-Efficient-LLM4Rec?style=social)](https://github.com/xxx/Awesome-Efficient-LLM4Rec)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/HaotianWu-LLM/Awesome-Efficient-LLM4Rec/pulls)
+[![Stars](https://img.shields.io/github/stars/xxx/Awesome-Efficient-LLM4Rec?style=social)](https://github.com/HaotianWu-LLM/Awesome-Efficient-LLM4Rec)
 
 </div>
 
@@ -28,7 +28,7 @@ We systematically review efficiency-oriented methods in LLM-based Recommender Sy
 ## 🗂️ Taxonomy Overview
 
 <div align="center">
-<img width="900" src="./figures/Overall-New.png" alt="Taxonomy Overview">
+<img width="900" src="./Overall.png" alt="Taxonomy Overview">
 <p><i>Figure 1: Overview of the proposed two-dimensional taxonomy for efficient LLM4Rec methods.</i></p>
 </div>
 
@@ -483,8 +483,8 @@ Optimization-level methods efficiently adapt a frozen LLM by adjusting only a sm
 👍 **Contributions are welcome!**
 
 If you have found relevant resources, discovered errors, or want to add new papers, please feel free to:
-- Open an [Issue](https://github.com/xxx/Awesome-Efficient-LLM4Rec/issues)
-- Submit a [Pull Request](https://github.com/xxx/Awesome-Efficient-LLM4Rec/pulls)
+- Open an [Issue](https://github.com/HaotianWu-LLM/Awesome-Efficient-LLM4Rec/issues)
+- Submit a [Pull Request](https://github.com/HaotianWu-LLM/Awesome-Efficient-LLM4Rec/pulls)
 
 **Contact**: wu.haotian [AT] ntu [DOT] edu [DOT] sg
 
