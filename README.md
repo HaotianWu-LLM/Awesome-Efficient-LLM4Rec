@@ -4,7 +4,7 @@
 
 📚 A curated collection of papers and resources on **Efficient Large Language Models for Recommendation Systems**.
 
-[![TechRxiv](https://img.shields.io/badge/arXiv-Paper-B31B1B.svg)]([https://arxiv.org/abs/xxxx.xxxxx](https://www.techrxiv.org/users/858346/articles/1370402-efficient-large-language-models-for-recommendation-a-survey))
+[![TechRxiv](https://img.shields.io/badge/TechRxiv-Paper-007EC6.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBkPSJNMzgwIDMyQzM0Mi40IDMyIDMwOCA1Ni40IDMwOCA5NnYzMDEjMCAzOS42IDM0LjQgNjQgNzIgNjRoMTMwYzUxLjIgMCA5Mi00MC44IDkyLTkyVjE2OGMwLTUxLjItNDAuOC05Mi05Mi05MkgzODB6bTAgNDh2MjAzYzAgMTcuNi0xNC40IDMyLTMyIDMyaC0xMzBjLTE3LjYgMC0zMi0xNC40LTMyLTMyVjE0NGMwLTE3LjYgMTQuNC0zMiAzMi0zMmgxMzBjMTcuNiAwIDMyIDE0LjQgMzIgMzJ6TTEzMiA0ODBDODAuOCA0ODAgMzIgNDMxLjIgMzIgMzgwVjEzMmMwLTUxLjIgNDAuOC05MiA5Mi05MmgxMzBjNTEuMiAwIDkyIDQwLjggOTIgOTJ2MzQ4eiIvPjwvc3ZnPg==)](https://www.techrxiv.org/users/858346/articles/1370402-efficient-large-language-models-for-recommendation-a-survey)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/HaotianWu-LLM/Awesome-Efficient-LLM4Rec/pulls)
 [![Stars](https://img.shields.io/github/stars/xxx/Awesome-Efficient-LLM4Rec?style=social)](https://github.com/HaotianWu-LLM/Awesome-Efficient-LLM4Rec)
