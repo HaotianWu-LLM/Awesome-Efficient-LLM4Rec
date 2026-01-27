@@ -19,7 +19,7 @@ This repository accompanies our survey paper:
 
 > **Efficient Large Language Models for Recommendation: A Survey**  
 > *Haotian Wu, Yingpeng Du, Tianjun Wei, Puay Siew Tan, Jie Zhang, Ong Yew Soon, Zhu Sun*  
-> *TechRxiv*
+> *TechRxiv, January 26, 2026. DOI: 10.36227/techrxiv.173272687.73188733/v2*
 
 We systematically review efficiency-oriented methods in LLM-based Recommender Systems (LLM4Rec), organizing the literature along two dimensions: the **RS pipeline** (data processing → model design → optimization strategy) and the **operational phase** (training → serving).
 
@@ -503,6 +503,8 @@ If you find this repository helpful, please cite our survey paper:
   publisher={Authorea}
 }
 ```
+## Acknowledgements
+We thank [Awesome-LLM-for-RecSys](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) and [Efficient-LLMs-Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) for their excellent repository organization, which inspired the structure of this collection.
 
 ---
 
