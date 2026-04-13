@@ -335,12 +335,14 @@ Optimization-level methods efficiently adapt a frozen LLM by adjusting only a sm
 
 | **Name** | **Paper** |    **Publication**    | **Paper Link** |                               **Code Link**                                |
 |:---:|:---|:---------------------:|:---:|:--------------------------------------------------------------------------:|
-| EAGER-LLM | EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration |       WWW 2025        | [[Paper]](https://dl.acm.org/doi/10.1145/3696410.3714933) |                                     \                                      |
+| EAGER-LLM | EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration |       WWW 2025        | [[Paper]](https://dl.acm.org/doi/10.1145/3696410.3714933) |                                     \  
+|IISAN-Versa| Efficient and Effective Adaptation of Multimodal Foundation Models in Sequential Recommendation | TKDE 2025 | [[Paper]] | (https://arxiv.org/pdf/2411.02992) |[[Code]](https://github.com/GAIR-Lab/IISAN) |    \
 | SSNA | Towards Efficient and Effective Adaptation of Large Language Models for Sequential Recommendation |       FCS 2024        | [[Paper]](https://dl.acm.org/doi/10.1007/s11704-024-40044-2) |                                     \                                      |
 | TransRec | Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights |       WSDM 2024       | [[Paper]](https://dl.acm.org/doi/10.1145/3616855.3635805) | [[Code]](https://github.com/westlake-repl/Adapter4Rec/blob/main/README.md) |
 | EASE | EASE: Learning Lightweight Semantic Feature Adapters from Large Language Models for CTR Prediction |       CIKM 2024       | [[Paper]](https://dl.acm.org/doi/10.1145/3627673.3680048) |                                     \                                      |
 | VIP5 | VIP5: Towards Multimodal Foundation Models for Recommendation | EMNLP 2023 (Findings) | [[Paper]](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2023.findings-emnlp.644.pdf) |                                     \                                      |
-| UniSRec | Towards Universal Sequence Representation Learning for Recommender Systems |       KDD 2022        | [[Paper]](https://dl.acm.org/doi/10.1145/3534678.3539381) |               [[Code]](https://github.com/RUCAIBox/UniSRec)                |
+| UniSRec | Towards Universal Sequence Representation Learning for Recommender Systems |       KDD 2022        | [[Paper]](https://dl.acm.org/doi/10.1145/3534678.3539381) |               [[Code]](https://github.com/RUCAIBox/UniSRec)                | \
+|IISAN | IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT | SIGIR 2024 | [[Paper]](https://dl.acm.org/doi/abs/10.1145/3626772.3657725)|[[Code]](https://github.com/GAIR-Lab/IISAN)|
 
 
 </p>
