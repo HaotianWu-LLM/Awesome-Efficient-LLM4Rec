@@ -250,6 +250,7 @@ Model-level methods focus on architectural innovations and compression technique
 |:---:|:---|:---:|:---:|:---:|
 | E2IMGREC | Spectral and Geometric Spaces Representation Regularization for Multi-Modal Sequential Recommendation | CIKM 2024 | [[Paper]](https://dl.acm.org/doi/10.1145/3627673.3679647) | [[Code]](https://github.com/WHUIR/E2ImgRec) |
 | LightLM | LightLM: A Lightweight Deep and Narrow Language Model for Generative Recommendation | arXiv 2023 | [[Paper]](https://arxiv.org/abs/2310.17488) | [[Code]](https://github.com/dongyuanjushi/LightLM) |
+| Zero-Shot Encoders | Encoder Language Models for Zero-Shot Recommender Systems: Cross-Domain and Cross-Lingual Evaluation | MDPI Computers 2026 | [Paper](https://www.mdpi.com/2073-431X/15/9/639) | [[Code]](https://github.com/patmull/language-models-in-embedding-based-recommender-system) |
 
 </p>
 </details>
